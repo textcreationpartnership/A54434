@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>J.P., the follower of the Lamb, to the shepheards flock salutation, grace, and peace is with you in the spirit of power and life and be infinitely multiplyed unto you, amen.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54434</idno>
+            <idno type="STC">Wing P1621</idno>
+            <idno type="STC">ESTC R3380</idno>
+            <idno type="EEBO-CITATION">13190900</idno>
+            <idno type="OCLC">ocm 13190900</idno>
+            <idno type="VID">98374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54434)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 433:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>J.P., the follower of the Lamb, to the shepheards flock salutation, grace, and peace is with you in the spirit of power and life and be infinitely multiplyed unto you, amen.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Written by John Perrot. Cf. BM.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98374:1" rendition="simple:additions"/>
+            <head>
+               <hi>J. P.</hi> The follower of the Lamb, to the Shepheards Flock Salutation, Grace and Peace is with you in the Spirit of Power and Life, and be Infinitely multiplyed unto you. <hi>Amen.</hi>
+            </head>
+            <p>HEare O HEAVENS, and learn O EARTH, For O third Heavens in thy Antient Records it was enrolled thy Elevation from the loweſt deepes, and Exaltation unto the glory of the Supernall Dominion, to be made the moſt Glorious Throne of the moſt Glorious of Glorious, which in this the Day of the mighty power of God is come to paſs, ac<g ref="char:EOLhyphen"/>cording to the predeſtination of Time, by Eternall Councell from of old; and now manifeſtly reveal'd <hi>(in the Reſplendent year, which is the one Day without Night, and as a thouſand years with God, and more than ten thouſand times ten thouſand, and thouſand of thouſands of years with the Sonne of man)</hi> through generation of the Word of the Power of Creation, through the fullfilling of the naturall Courſe of time untill the <hi>Travell,</hi> and through her <hi>Pangs</hi> to the <hi>Birth,</hi> and after <hi>it</hi> through Temptations and Tryalls, through Sorrows, Per<g ref="char:EOLhyphen"/>ſecutions, Combats and Battles, through Fire and Water, through over-whelming floods, and exceeding ſtrong aſcending flames, whereby the Ample advantage hath accrued; in all which may be poſſibly conceived, yea more in the ſuperabundance of the Immor<g ref="char:EOLhyphen"/>tall vertue, then can be ſpread upon the longeſt and largeſt Land of the Kingdom of Comprehenſion; but this is undoubtedly under<g ref="char:EOLhyphen"/>ſtood, the man-child hereby <hi>(which you know to be the fruit of the womb of the woman, which the Dragon drove into the Wilderneſs)</hi> is grown unto the Stature of a man, full of the Power, of Wiſdom,
+<pb n="2" facs="tcp:98374:2"/>
+Life and Light. And as <hi>Deborah</hi> was a famous and Renowned Judge in <hi>Iſrael;</hi> even ſo alſo is become the <hi>Virgin-Daughter</hi> of <hi>Sion,</hi> excel<g ref="char:EOLhyphen"/>ling all of her Sex that ever were before her; This is ſhee which was born of the Virgins womb; in which alſo was conceived the <hi>Man-child,</hi> Behold, I ſpeak a Riddle, for theſe <hi>three</hi> are the <hi>Twins,</hi> and the <hi>Twins</hi> ſuck at one Breaſt, and the Breaſt is the man's mouth, and the milk is the <hi>Fathers voyce,</hi> and the man's ſtrength is the <hi>Fathers might,</hi> and the <hi>Man,</hi> the <hi>Son</hi> and the <hi>Father,</hi> is one; and the <hi>Father</hi> hath married the <hi>Son</hi> to the <hi>Virgin,</hi> and the <hi>Virgin Daughter;</hi> And ſo all ſouls in the ſweetneſs your maker is become your husband, for you have given the Virgin your impolluted and undefiled Souls, to the Spirit your Brother and Husband, and ſo call him Lord, and give him the Reverence as <hi>Sarah</hi> did unto <hi>Abraham;</hi> and hereby the King<g ref="char:EOLhyphen"/>dome is known to be <hi>In you,</hi> and the Lord in the Kingdome, as the Lord, and you in the Kingdome with the Lord, not as your owne, but as the Lords, and ſo the whole ſubſtance is conſecrated unto him who is the Lord of the whole Earth. And thus whether your body <hi>Lives</hi> or <hi>Dyes,</hi> whether you <hi>in the Body</hi> or <hi>out of the Body,</hi> the Soul is the ſame with the Lord in the Kingdom, though the <hi>Laſt</hi> you will finde to be <hi>Beſt.</hi>
+            </p>
+            <p>Ah <hi>Jeruſalem, Jeruſalem,</hi> thou art my Siſter, the glorious work man<g ref="char:EOLhyphen"/>ſhip of thy Maker; yea, thou art my Lifes love, prepared for thy Spouſe in the bed of the Bride-Chamber.</p>
+            <lg>
+               <l>Thy Beauty hath enamoured me in Vertues lodg of Reſt,</l>
+               <l>A flaming Torch thine eye may ſee of love burns in my breaſt;</l>
+               <l>Thou art the Stone which doth my ſpirit whet,</l>
+               <l>Like as the Razor which is newly ſet:</l>
+               <l>Ah feel my edge that's ground exceeding ſharp,</l>
+               <l>To ſing thy Vertues praiſe to Davids Harp.</l>
+               <l>For as an <hi>Hoſt</hi> in Sions Coaſt, Of much more ſtrength than Nations;</l>
+               <l>Thou doſt Ariſe before mine Eyes, In all my Contemplations.</l>
+            </lg>
+            <p>Ah Clear Chriſtall City of God, come down from above thou bleſ<g ref="char:EOLhyphen"/>ſed womb of Princes, and renowned habitation of holy Iudges, thy SPOUSE hath endowed thee with Infinite Riches, and adorned thee with the rarities of farr Countreys, and Coſtlineſs of Lands and Kingdomes; thy LINNEN is as white as the ſnow of Heaven, and is a Lanthorne of light to a great Nation; thy ROBE is of the Die of the Bloud of Life, as precious as the Ranſome of Kings: thy CROWN is an Innumerable trayn of ſtarrs, which ſhall follow thee to the end of Time; bleſſed is the fruite of thy fruitfull Womb, for thy Daughters are the faireſt of thouſands, their face is as the Chri<g ref="char:EOLhyphen"/>ſtall
+<pb n="3" facs="tcp:98374:2"/>
+glaſs, which ſhews every Soule its ſhape; they are as the Gold <hi>of Ophir</hi> in <hi>Judah's Land,</hi> and as <hi>Pearls</hi> in the <hi>City ſtreets;</hi> they hang as Iewels at thy Breaſt, and Bracelets upon thy Right-arme; they are the Beautifulleſt Princeſſes in the whole Earth, the glory of God is their Dowry. I am <hi>Over-flowne Over-whelmed</hi> and ſwallowed with the floods of their Love which purſue me; Thy Vertue O <hi>JER<g ref="char:V">Ʋ</g>SA<g ref="char:EOLhyphen"/>LEM</hi> is as an Impreſs of ten Thouſands upon my little Cottage-Walls; I am ſurprized by the Bow of thy battle, made Captive to love Everlaſting; for the hand of thy Husband did break a Chayn, and truth lincked me to the love of Life, and her. I am full of thy weight which is augmented in the Ballance of the Sanctuary, and weigheth the world as wind; I kiſs the cheeks of thy Daughter, I wooe her as a Spouſe for my bed, ſhee is mine in the Covenant of Conjunction, as the Coupled Dove to her Mate; I am Bowels of her true Body and ſhee is Bloud of my heart-bloud.</p>
+            <p>Ah ſurpaſſing ſweet <hi>SHILOH,</hi> thou art the Husband of <hi>Jeruſalem my Mother</hi> and my <hi>Brother; Sion</hi> is the only Son, <hi>J<g ref="char:V">Ʋ</g>DAH</hi> my <hi>Siſter</hi> is a faithfull <hi>Daughter;</hi> Treachery is no more lodged in her Land; I am plentifully filled with the ſweeteſt refreſhment in the ſolace of end<g ref="char:EOLhyphen"/>leſs <hi>Life.</hi> Beholding the order of thy houſe, What Gravity? What Mo<g ref="char:EOLhyphen"/>deſty? What Chaſtity? What Wiſdome? What fear and trembling? What Faith-undoubted? What Patience and Content? What Chari<g ref="char:EOLhyphen"/>ty and Unity? Yea, What Bowels of Love and Life? Ah! how plentifull doth the glorious vertue of the Lord God abound in the mantion of thy dwelling among all thy deareſt pure-born ſeed and Children? And thou O GOD art <hi>Reſt</hi> to the weariſomneſs of the Weary, and Bread to the hunger of the Hungry, thou art Strength to the weakneſs of the Weak, and a Support of the feeble knees; thou viſiteſt the Sick with the medicine of mercy, and raiſeſt the lan<g ref="char:EOLhyphen"/>guiſhing with love; thou droppeſt thy dews upon the <hi>Heaths</hi> of the <hi>Mountaines,</hi> as on the <hi>green herbs</hi> of the <hi>valleys;</hi> thou haſt made Rocks in mountaines, and Stones in dry walls to ſweat with moyſture, though they changed not from the nature of their hardneſs; great hath thy Grace been to all Generations, though the Rebellious have kicked againſt thee: my ſoule is a fire of praiſe, and a ſacrifice of thankſgiving before thee, my ſpirit ſaith in this behalf, <hi>Glory, Glory, Glory to God my God</hi> for ever and ever, <hi>Amen.</hi>
+            </p>
+            <p>Speak ye <hi>Barren-Mountaines,</hi> and Anſwer ye <hi>Dry-hills,</hi> Where, Where are the parched Heaths <hi>which ſay,</hi> Or the Rocky places <hi>which can Avouch,</hi> that alwayes they were dry without the Diſtilling drops of the Heavens?</p>
+            <p>Stand up <hi>ye Brooks,</hi> and Surmount <hi>ye Rivers,</hi> and ſpeak to the Bar<g ref="char:EOLhyphen"/>ren Mountaines; And declare <hi>O ye fruitfull valleys</hi> unto the dryeſt hills, though you be dry, yet we were as you are, when both the Sun ſhined, and the Heavens ſhowred upon the juſt and the unjuſt,
+<pb n="4" facs="tcp:98374:3"/>
+upon the Corn and the weed, upon the Lilly and the Thorn, the Roſe and the Briar; And we knew it not. Wherefore Weep your part <hi>O ye Wilderneſſes,</hi> and Lament your part <hi>O ye parched places,</hi> and fall down <hi>ye craggy Rocks,</hi> and come and drink of our waters in the val<g ref="char:EOLhyphen"/>leys; and loe you ſhall be ſuch ſtreames as are our ſtreames, and you ſhall be a Vineyard of ſweet grapes, as we are a fruitfullneſs to the Lord of the whole Earth, and there ſhall be no difference betwixt you and us, for we were as you are; and in all things like unto your unfruitfulneſs in the parching times when the earth did Cleave and Chap, and Gape for water, before that we found the Way to the fountain.</p>
+            <p>And O ye ſweet Waters of the Conſolation of <hi>Jacobs Well,</hi> Speak, ſpeak unto the Waters of <hi>Meribah,</hi> which once was a hard Rock, but now are the ſtreams of the waters of Bitterneſs, why runneth thy ſtreames as a brook of ſuch great Bitterneſs? O Waters remove the Rock which is in the bottome of thy Waters, and then let a drop of our Waters fall into thy Waters, and behold they ſhall be no more a bitterneſs, but as our Waters, like the Milk of the breaſt to the babe; and ſo our Conſolation ſhall be thy Conſolation, and thou ſhalt be an habitation of joy in the Land.</p>
+            <lg>
+               <l>And O ye Branches of the Olive tree,</l>
+               <l>Your leaves are ſhades, and fruit is life to mee;</l>
+               <l>God's wiſdom which ſurpaſſeth mans devices,</l>
+               <l>Hath built you as a Bowre of fragrant Spices.</l>
+               <l>Your Walks are Joyfullneſs and peace, your Seat,</l>
+               <l>Your Life is Bread and Wine, and Love is meat;</l>
+               <l>My ſoule is planted in your holy ground,</l>
+               <l>And here your flames of love doe me ſurround;</l>
+               <l>And on your ſubſtance which diſtills as drops</l>
+               <l>Of heavenly dew, I feed like honey ſops.</l>
+               <l>Partaker with you in Community.</l>
+               <l>Of good in Gods houſe in the <g ref="char:V">Ʋ</g>nity;</l>
+               <l>And in the ſtem my branch with you repoſes,</l>
+               <l>Which bears the bud and all the Damask-roſes;</l>
+               <l>You are the bed compos'd of heavenly pleaſure</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto my ſoule, yea, Gods peculiar Treaſure.</l>
+               <l>How purely runs theſe moſt refreſhing ſtreames,</l>
+               <l>In dayly Viſions and Nocturnal dreames;</l>
+               <l>The fulneſs verily is in the Father,</l>
+               <l>Who doth our Minds into his boſome gather,</l>
+               <l>Like tender Chickens by the Clucking-hen,</l>
+               <l>Whoſe Name be prais'd by Life, by Voyce and Pen.</l>
+               <l>Let me deſcend from Sions glorious Mountain,</l>
+               <l>To ſhew a Seed the Vale wherein's the Fountain;</l>
+               <l>
+                  <pb n="5" facs="tcp:98374:3"/>For ſurely I could freely lay down life,</l>
+               <l>With bloud, to buy a ſtranger for my wife;</l>
+               <l>For what's ſo purchaſed by Joynt-conſent,</l>
+               <l>Is as the Seed of Judah's ſaved Tent;</l>
+               <l>What? Forreigner would'ſt thou walk in the Way</l>
+               <l>Of Life and Peace in this God's ſaving Day?</l>
+               <l>Thy whole Affection muſt in ſubſtance bend,</l>
+               <l>To that which brings to Fleſh a final end;</l>
+               <l>And that from Darkneſs thou the Day mayſt know,</l>
+               <l>The Proud muſt bow down to the poore and low;</l>
+               <l>For loe the Sun which gives the Day her light,</l>
+               <l>Remaines below the Horizon all night;</l>
+               <l>Such is the Principle and Spark in thee,</l>
+               <l>Vail'd by Sins cloud, whereby thou canſt not ſee</l>
+               <l>To know the Poore, the Oppreſſed, and his cryes,</l>
+               <l>Within thy Selfe which in a Dungeon lyes.</l>
+               <l>Wherefore draw near unto the Earth's ſhort end,</l>
+               <l>To ſee the Day-Star and the Sun aſcend;</l>
+               <l>For know thou whil'ſt that thou doſt there remaine,</l>
+               <l>Aſſuredly art bound in Death's black-chaine;</l>
+               <l>And whil'ſt thou doſt from Mountain run to Hill,</l>
+               <l>Seeking a Stream to drink thy luſtfull fill,</l>
+               <l>Arive thou canſt not unto Jacobs Well,</l>
+               <l>For ſo thou run'ſt to ring a broken bell:</l>
+               <l>Stand ſtill I'le touch a Stone and thou ſhalt know,</l>
+               <l>That Waters in thee out of it ſhall flow;</l>
+               <l>In Conſcience there's a ſecret Light within,</l>
+               <l>Which doth diſtinguiſh Truth from every ſin;</l>
+               <l>That is of God which Judgeth works of Evill,</l>
+               <l>And thoughts in man mov'd of the tempting Devill;</l>
+               <l>The Soul which faithfully it's Judgment keepes,</l>
+               <l>Shall know Salvation from the Darkneſs deepes;</l>
+               <l>Then follows Faith and, Hope which God alone,</l>
+               <l>Th' internall knowledge of the vertuous Stone;</l>
+               <l>Out of which waters pure of life do guſh,</l>
+               <l>And in the ſame's conceal'd the Burning buſh;</l>
+               <l>Then will his River run, and Flames aſcend</l>
+               <l>Of Heavenly Vertue, which ſhall never end:</l>
+               <l>Remember man, the light within's the Way,</l>
+               <l>From darkneſs dwelling to the door of Day;</l>
+               <l>Which leads to fullneſſe, free from every doubt,</l>
+               <l>Obey'd Within, poſſeſt, but loſt without:</l>
+               <l>And therefore Wanderer at home retire,</l>
+               <l>Leaſt that thou ſink and periſh in the mire.</l>
+               <l>
+                  <pb n="6" facs="tcp:98374:4"/>For that which leads man from the light within,</l>
+               <l>Spurs on the ear to end the life in ſin.</l>
+               <l>And then of ſin in which he Lives and Dyes,</l>
+               <l>Shall have his Wage, for as he Falls he Lyes.</l>
+               <l>Yet ſtill my Heart doth in my body burn,</l>
+               <l>Towards the Doves, to whoſe door I return</l>
+               <l>With Corn in hand to ſpread before their eye,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>pon the Stage whereto they dayly flye:</l>
+               <l>Which is the place whereon they allwayes feed,</l>
+               <l>Amidſt the houſe wherein their young they breed.</l>
+               <l>To all the Hungry and the Thirſty Lambs,</l>
+               <l>I'm Broken-bread, and Wine drawn out in drams.</l>
+               <l>And of a truth it is my ſouls ſweet care,</l>
+               <l>That every babe may eat and drink a ſhare;</l>
+               <l>My life in <hi>Sion</hi> would be allwayes found</l>
+               <l>Among the Seed, a Salve to every wound;</l>
+               <l>And perfect Medicine to every grief,</l>
+               <l>And to th'Oppreſt an Arm of good reliefe.</l>
+               <l>Let not my Love's heart languiſh under ſorrow,</l>
+               <l>For lo thy Joy approacheth with the Morrow.</l>
+               <l>The YOKE to ſelfe, and CROSSE to fleſh fly never,</l>
+               <l>That DEATH may Dye, and LIFE may live for ever,</l>
+               <l>For, ſuffering Sword contentedly to ſlay</l>
+               <l>The Mortal, thou in battle wins the day;</l>
+               <l>Then thin's the Standard and the Enſign ſpread,</l>
+               <l>And thou in <hi>Sion</hi> knoweſt the Ruling head;</l>
+               <l>Then peace, then joy, then pleaſures pure abound,</l>
+               <l>And ſolace ſweet as Walls do thee ſurround:</l>
+               <l>Then Sobs and Grief God from thy Land doth baniſh,</l>
+               <l>And Sighs and Sorrowes as a ſhade do vaniſh;</l>
+               <l>Yea of thy Trouble whileſt thou wert forlorn,</l>
+               <l>Remains not thought, for joy a Son is born.</l>
+               <l>Wherefore O Plants wait in the Spirit-Meeke,</l>
+               <l>And in the drouth from God the ſhowers ſeeke;</l>
+               <l>In which ſweet ſtate you ſhall me witneſſe bear,</l>
+               <l>God's fullneſſe feeds each low heart full of fear:</l>
+               <l>Who doth Exalt the ſpirit of the Humble,</l>
+               <l>But the Exalted from his ſeat doth Tumble.</l>
+               <l>When as the Woods in Summer time are green,</l>
+               <l>The Thruſtles tune is heard though ſhe not ſeen</l>
+               <l>By any Mortall, yet there is an eye,</l>
+               <l>Which ſees how ſhe from Tree to Tree doth fly,</l>
+               <l>And doth perceive whence her ſweet notes Aſpire,</l>
+               <l>And what's the thing her life doth moſt deſire,</l>
+               <l>Which is the Book wherein I read your Race,</l>
+               <l>
+                  <pb n="7" facs="tcp:98374:4"/>Beyond wide-Lands, Sea's, Time and utmoſt Space.</l>
+               <l>And here with you I reſt, I live and dwell,</l>
+               <l>Like Silk-worms hid, in one wrought Caſe and Shell;</l>
+               <l>Yea lodged in a ſecret Suckling Breaſt,</l>
+               <l>Like as the young ones in the Turtles neſt.</l>
+               <l>Dear Lambs true number of the Shepheards tale,</l>
+               <l>As one by one I hugg and kiſs you all:</l>
+               <l>Remembring you I drop like molten marrow,</l>
+               <l>Yea rent like fallow torn with the barrow.</l>
+               <l>Ah! feel my Bowels which like Rain diſtils,</l>
+               <l>And runs like Rivers down the ſteepeſt hills:</l>
+               <l>Yea, touch my panting heart and thereby learn,</l>
+               <l>My ſoul moſt frequent after you doth yearn.</l>
+               <l>I'm Raviſhed beholding Virtues graces,</l>
+               <l>Of Heavens glory to o're ſpread your faces;</l>
+               <l>And cannot utter how my deeps abound,</l>
+               <l>Of love to you, which in the life are found.</l>
+               <l>You're at the Fountain pure, I plainly ſee,</l>
+               <l>And ſo am I, yet ſtill remember me:</l>
+               <l>There in the Spirit of Life, Joy, and Peace,</l>
+               <l>Pray for your Brother, pray and never ceaſe;</l>
+               <l>For I am God's, and Yours in every Tryall,</l>
+               <l>The which you know full well without denyall:</l>
+               <l>So read me, You, We One, through life's infuſion,</l>
+               <l>In the firſt principle and laſt concluſion.</l>
+            </lg>
+            <p>All dear ſeed and Plants of the Lord God, from the Crown of the head to the ſole of the foot of the entire perfect body, every member which ſtands Purely, Firmely, and Sollidly knit Joint by Joint, Bone to Bone, by the ſtrength of the Sinews which hold<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all in the ſound<g ref="char:EOLhyphen"/>neſſe, free from maimes, or haltings: My dear ſoul ſealed in Spirit, greets, ſalutes, and kiſſes you as Gods deareſt Children, pitched as Torches, Lanthorns, and ſhining Lamps of his praiſe <hi>(in your reſpective Places and Callings)</hi> and everlaſting glory which ſhall never have end. And ſo all Saints dwell in the holy City, and there I am with you all, known to you a brother in the life of the brother-hood. <hi>John</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The</hi> 20th <hi>of the</hi> 5th <hi>Month.</hi> 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb n="8" facs="tcp:98374:5"/>
+            <head>To the Brethren in the Unity and Fellow<g ref="char:EOLhyphen"/>ſhip of the Life of the Virginity of Inno<g ref="char:EOLhyphen"/>cency called <hi>Quakers,</hi> in ENGLAND, and elſe-where.</head>
+            <p>YE the Born of God of the Incorruptible and Immortal-Seed of the Covenant, which is AMEN for ever and ever. In the ſubſtance which miniſtreth you Dayly-Bread, and the freſh and new wine of the kingdom, mine endleſs Love reacheth you, and with the ſweet Armes of the Grace and Peace of my Heavenly Father I Embrace you; I Greet, Salute, and kiſs you, one by one, yea, all as one (in the one only, in whom is no Variation or Changing) with the undefiled lips of Sincerity, which never uttered Uncleanneſs, Lewdneſs, Deceit, or a Lye; Feel and know mee as near you as the Fleſh which cleaveth to your Bones, as purely and perfectly in you as the bloud of Life in your hearts.</p>
+            <p>Ah <hi>Sion!</hi> if thee I forget, let my Bowels burſt in my body, and let my Carcaſe quickly become meat for hungry Eagles, and let the Vul<g ref="char:EOLhyphen"/>tures alſo tear my fleſh from my bones.</p>
+            <p>I ceaſe not Night nor Day in every Watch to preſent you as a li<g ref="char:EOLhyphen"/>ving Sacrifice upon the Altar in the Holieſt of Holieſts: And I full well know that when fire is kindled in your proper habitations <hi>(which is the Seat of God's Reſt)</hi> I am as a writt of Remembrance before you.</p>
+            <p>God Almighty Augment your portion as faithfull Stewards, and continually of his fulneſs give you all fulneſs: Though I am as the Leaſt, and as a Door keeper in the houſe of God, yet of a truth the Vertue of the Lord God is with mee.</p>
+            <p>The which I have to ſay, that you all in my behalf be full of the praiſe of my Heavenly Father in your hearts, and that your Thanks<g ref="char:EOLhyphen"/>giving in Spirit may abound before him, <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>The God of peace poſſeſs your ſoules to the utmoſt in his everlaſting peace, And the moſt Dreadfull Lord of Holineſs preſerve you to paſs the time of your Pilgrimage in Feare and Trembling.</hi> Againe I ſay unto you <hi>Feare, Dread, and Tremble yee before the ever living God.</hi>
+            </p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON;</hi> Printed, for <hi>Robert Wilſon,</hi> at the Sign of the <hi>Black Spread-Eagle</hi> and <hi>Wind-mill,</hi> in <hi>Martins</hi> near <hi>Alderſgate.</hi>
+            </p>
+            <p>1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
